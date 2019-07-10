@@ -4,7 +4,7 @@ Repository of all Splunk related stuff
 ## _bundles
 _bundles directory contains packaged Splunk bundles
 
-## TA_EnvoyProxy
+## TA_AhnlabFirewall
 This TA is used to parse the Ahnlab TrusGuard and DPX series of network devices. Input configuration is not included and need to be created manually. The TA is CIM compliant and mapped to appropriate data models.
 
 ## TA_EnvoyProxy
